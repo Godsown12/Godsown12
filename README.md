@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Godsown but you can call me Expido
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development and a database administrator
+-    Data Analyst and power BI pro
 - 🌱 I’m currently learning ...Advance Python
 - 💞️ I’m looking to collaborate on software development with anyone
 - 📫 How to reach me ...ajogodsown@gmail.com, whatapp no: +2348136779046
